@@ -1,4 +1,4 @@
-# ezwutMemLock || DMA OS Latency & Memory Optimizer
+# MemLock || DMA OS Latency & Memory Optimizer
 
 C# system utility designed to optimize CPU priority, thread scheduling latency, and physical RAM caching for Direct Memory Access (DMA) client applications running on a second PC.
 
